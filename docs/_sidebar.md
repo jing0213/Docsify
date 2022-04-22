@@ -1,7 +1,7 @@
 <!-- _sidebar.md -->
 
-* 李财通
-  * [李财通刚法的](/sideMd/lct.md) <!--注意这里是相对路径-->
-* 其他人
-  * 还没有东西。。
+* lct
+  * [lct的至理名言](/docs/sideMd/lct.md) <!--注意这里是相对路径-->
+* other
+  * there will add sth..
 
